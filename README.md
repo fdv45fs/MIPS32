@@ -1,2 +1,2 @@
 # MIPS32
-graphic engine?
+Minimal game in mips32 asm
